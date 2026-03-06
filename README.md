@@ -9,11 +9,12 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DARK-THEME-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-Advanced-black?style=for-the-badge&logo=linux"/>
-  <img src="https://img.shields.io/badge/Workflow-CLI%20-00ff99?style=for-the-badge&logo=gnubash&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-Compiler%20Stack-yellow?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Cryptography-XOR%20%7C%20RSA%20%7C%20DSA-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Swift-iOS%20Development-orange?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-Markup%20Language-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-Styling%20Engine-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-Frontend%20Logic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-Type%20Safe%20JS-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React.js-Component%20UI-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 ---
