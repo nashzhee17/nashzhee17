@@ -50,7 +50,7 @@ I work with multiple operating systems to fit my projects and experiments:
 - Bash  
 - JavaScript / TypeScript  
 - HTML / CSS  
-- Golang  
+- React.js  
 - Swift
 
 ### Tools & Platforms
