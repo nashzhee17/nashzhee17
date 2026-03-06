@@ -117,7 +117,7 @@ I explore **practical cryptography** and lightweight encryption techniques for f
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=nashzhee17&theme=tokyonight&hide_border=true&background=0d1117&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com?user=nashzhee17&theme=tokyonight&hide_border=true&background=0D1117&v=1)
 
 </div>
 
